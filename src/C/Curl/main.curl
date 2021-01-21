@@ -1,0 +1,4 @@
+{curl 3.0, 4.00 applet}
+{curl-file-attributes character-encoding = "utf-8"}
+
+Hello, World!

@@ -1,0 +1,5 @@
+this::operator()
+{
+	import system.cstdio;
+	puts("Hello, World!");
+}

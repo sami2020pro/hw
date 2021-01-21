@@ -1,0 +1,7 @@
+PROGRAM hello;
+	BEGIN
+		write(0, 0, 0, 0, "Hello, World!");
+		LOOP
+			FRAME;
+		END
+	END
